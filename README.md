@@ -14,7 +14,8 @@ In this game, your mood points match with three different states: black, grey an
 
 You can use the WSAD keys on the keyboard to control the character to move in four directions: up, down, left, right and click the left mouse button to shoot once you got the weapon. Attacks consume mood points. When you defeat the enemy, the color would come back to the world and lead you to the exist.
 
-### 简介
+**简介**
+
 通常我们认为失去和找到是两个矛盾的状态，如果它们不是呢？失去也有可能会带来新的收获
 
 Where’s the color是一款由No_Bad_Heart团队开发的解密冒险游戏。在这个没有色彩的世界里，玩家需要使用武器打败怪物、找回颜色才能发现出口。
